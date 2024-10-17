@@ -2,7 +2,7 @@
 
 <h2> ⭐ Projects </h2>
 - <b> Mini Netflix Project </b>
-   - ()
+   - (<../../Netflix Project.ipynb>)
 
 
 <h2> ⭐ Certifications </h2>
