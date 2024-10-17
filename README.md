@@ -2,7 +2,7 @@
 
 <h2> ⭐ Projects </h2>
 - <b> Mini Netflix Project </b>
-   - (Netflix Project.ipynb)
+   - (https://github.com/chandiaaron/All-Things-Data-/blob/main/Netflix%20Project.ipynb)
 
 
 <h2> ⭐ Certifications </h2>
